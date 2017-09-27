@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="ShareSpike">987c0ed80fad030039e209bce1050eff</application>
+        <filter/>
+        <name>ShareSpike Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_0094_sharespike.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-27 20:40:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>547c4ed80fad030039e209bce1050e01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ShareSpike Table</sys_name>
+        <sys_package display_value="ShareSpike" source="x_0094_sharespike">f76cc6980fad030039e209bce1050e18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ShareSpike">f76cc6980fad030039e209bce1050e18</sys_scope>
+        <sys_update_name>sys_ui_module_547c4ed80fad030039e209bce1050e01</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-27 20:40:07</sys_updated_on>
+        <table>x_0094_sharespike_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
